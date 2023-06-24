@@ -1,1 +1,4 @@
-# git-class
+Author:
+Client:
+Description:
+Comments:
